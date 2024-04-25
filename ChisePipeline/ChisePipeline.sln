@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChisePipeline", "ChisePipeline.csproj", "{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		Debug|Zune = Debug|Zune
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Debug|x86.ActiveCfg = Debug|x86
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Debug|x86.Build.0 = Debug|x86
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Debug|Zune.ActiveCfg = Debug|Zune
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Debug|Zune.Build.0 = Debug|Zune
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Release|x86.ActiveCfg = Release|x86
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Release|x86.Build.0 = Release|x86
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Release|Zune.ActiveCfg = Release|Zune
+		{EA3590EA-301A-4E11-8DD0-6EBD7DD91659}.Release|Zune.Build.0 = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
