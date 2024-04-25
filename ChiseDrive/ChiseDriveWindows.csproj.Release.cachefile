@@ -1,0 +1,17 @@
+Content\Effects\BloomCombine.xnb
+Content\Effects\Skybox.xnb
+Content\Effects\BloomExtract.xnb
+Content\Effects\GaussianBlur.xnb
+Content\Effects\HeightmapTerrain.xnb
+Content\Effects\ParticleEffect.xnb
+Content\Effects\PositionColorTexture.xnb
+Content\Effects\ShadedModel.xnb
+Content\Effects\SkinnedModel.xnb
+Content\Effects\ScaledPointSprite.xnb
+Content\Effects\PositionTexture.xnb
+Content\Effects\ToonShade.xnb
+Content\Fonts\Debug.xnb
+Content\Effects\Postprocess.xnb
+Content\Effects\FatLine.xnb
+Content\Textures\white.xnb
+Content\Effects\ShadedEffect.inc
